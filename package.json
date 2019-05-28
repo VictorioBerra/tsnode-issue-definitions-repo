@@ -8,6 +8,7 @@
   },
   "bugs": "https://github.com/oclif/example-single-ts/issues",
   "dependencies": {
+    "@duosecurity/duo_api": "^1.2.0",
     "@oclif/command": "^1",
     "@oclif/config": "^1",
     "@oclif/plugin-help": "^2",

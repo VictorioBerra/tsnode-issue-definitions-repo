@@ -1,4 +1,5 @@
 import {Command, flags} from '@oclif/command'
+import * as DuoApi from '@duosecurity/duo_api';
 
 class OclifExampleSingleTs extends Command {
   static description = 'describe the command here'
